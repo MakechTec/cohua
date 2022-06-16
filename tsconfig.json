@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "downlevelIteration": true,
-        "outDir": "./src",
+        "outDir": "./prebuild",
         "moduleResolution": "node",
         "module":"CommonJS"
     },
