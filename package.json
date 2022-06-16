@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@makechtec/cart-guidelines": "^1.0.3",
-    "@makechtec/remote-cart": "^1.0.0",
+    "@makechtec/remote-cart": "^1.0.1",
     "@makechtec/stock": "^1.0.0"
   }
 }
