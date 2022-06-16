@@ -6,7 +6,7 @@
   },
   "name": "@makechtec/cohua",
   "description": "Significa comprar en lengua Nahuatl, también es un API que se expone como un objeto que contiene una basta cantidad de métodos relacionados a un ecommerce.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.17.12",

@@ -11,6 +11,7 @@ export class CohuaClass{
     constructor(config: Config){
         this.config = config;
         this.cart = new RemoteCart();
+        this.stock = new Stock();
     }
 
     getCart(): Cart{
