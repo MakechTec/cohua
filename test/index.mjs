@@ -1,3 +1,3 @@
 import * as all from "../index.js";
 
-console.log(all.Cohua.getCart());
+console.log(all.Cohua.getStock());
